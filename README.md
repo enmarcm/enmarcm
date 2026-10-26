@@ -72,7 +72,6 @@ Construyo productos web de punta a punta para negocios reales: **e-commerce y ca
 | **Antojo** | PWA para calificar y rankear comida entre amigos | React · Node | [antojo.enmarcm.site](https://antojo.enmarcm.site/) |
 | **Mis Finanzas VE** | Finanzas personales pensadas para la economía venezolana | React · Express · Prisma · PostgreSQL | [finanzas.enmarcm.site](https://finanzas.enmarcm.site/) |
 | **Mi Corsa** | PWA para llevar el mantenimiento y la gasolina del carro | React · Vite · Fastify · PostgreSQL · Docker | [carro.enmarcm.site](https://carro.enmarcm.site/) · [Código](https://github.com/enmarcm/gestion-carro) |
-| **Torre Cooperativa** | Juego de plataformas cooperativo para 2 jugadores en tiempo real | React · Node · Socket.IO | [Código](https://github.com/enmarcm/vertical-platformer-coop) |
 
 Más proyectos y capturas en **[enmarcm.site](https://enmarcm.site)**. La mayoría del código de clientes es privado.
 
