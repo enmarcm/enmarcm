@@ -63,7 +63,7 @@ Construyo productos web de punta a punta para negocios reales: **e-commerce y ca
 | Proyecto | Qué es | Stack | Enlace |
 |---|---|---|---|
 | **Fennicce** | Catálogo editorial y panel admin para una marca de moda | React · Next.js · Node · Prisma · PostgreSQL | [fennicce.site](https://fennicce.site/) |
-| **Magno Store** | Tienda de relojes con precios USD/Bs + panel admin y analíticas | React · Node · MySQL · Redis | — |
+| **Magno Store** | Tienda de relojes con precios USD/Bs + panel admin y analíticas | Node · Express · Prisma · PostgreSQL · React | — |
 | **Mekanik** | Sistema de gestión para talleres: clientes, vehículos, citas, QR por cliente | React · MUI · Node · PostgreSQL | Privado |
 | **Liga Lago Futsal** | Gestión de torneos con marcadores en vivo, tablas y llaves | React · Express · Prisma · PostgreSQL · Socket.IO | [Demo](https://torneo.enmarcm.site/) · [Código](https://github.com/enmarcm/torneo-system) |
 | **EFPACE** | Hub administrativo interno de EF Agency | Next.js · Supabase | [Acceso](https://administrativo.efagency.com.ve/login) |
