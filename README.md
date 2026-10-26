@@ -62,9 +62,8 @@ Construyo productos web de punta a punta para negocios reales: **e-commerce y ca
 
 | Proyecto | Qué es | Stack | Enlace |
 |---|---|---|---|
-| **Fennicce** | Catálogo editorial y panel admin para una marca de moda | React · Next.js · Node · Prisma · PostgreSQL | [fennicce.site](https://fennicce.site/) <!-- TODO: confirmar dominio (.site vs .com) --> |
-| **Magno Store** | Tienda de relojes con precios USD/Bs + panel admin y analíticas | React · Node · MySQL · Redis | [magnove.store](https://magnove.store/) |
-| **Sissy Store** | Tienda de moda con carrito, tallas/colores y panel admin | React · Node · MySQL | [storebysissy.com](https://www.storebysissy.com/) |
+| **Fennicce** | Catálogo editorial y panel admin para una marca de moda | React · Next.js · Node · Prisma · PostgreSQL | [fennicce.site](https://fennicce.site/) |
+| **Magno Store** | Tienda de relojes con precios USD/Bs + panel admin y analíticas | React · Node · MySQL · Redis | — |
 | **Mekanik** | Sistema de gestión para talleres: clientes, vehículos, citas, QR por cliente | React · MUI · Node · PostgreSQL | Privado |
 | **Liga Lago Futsal** | Gestión de torneos con marcadores en vivo, tablas y llaves | React · Express · Prisma · PostgreSQL · Socket.IO | [Demo](https://torneo.enmarcm.site/) · [Código](https://github.com/enmarcm/torneo-system) |
 | **EFPACE** | Hub administrativo interno de EF Agency | Next.js · Supabase | [Acceso](https://administrativo.efagency.com.ve/login) |
@@ -72,8 +71,8 @@ Construyo productos web de punta a punta para negocios reales: **e-commerce y ca
 | **Catálogo QR** | Habladores QR con precios al detal y al mayor para supermercado | PHP | [Ver ficha](https://abc-soft.as-netca.com/diosaca-qr/p/?c=09000270) |
 | **Antojo** | PWA para calificar y rankear comida entre amigos | React · Node | [antojo.enmarcm.site](https://antojo.enmarcm.site/) |
 | **Mis Finanzas VE** | Finanzas personales pensadas para la economía venezolana | React · Express · Prisma · PostgreSQL | [finanzas.enmarcm.site](https://finanzas.enmarcm.site/) |
-
-<!-- TODO: Gochito y Carro — añadir descripción y enlace (no hay ficha en el portfolio). Carro parece ser "Mi Corsa" (carro.enmarcm.site). -->
+| **Mi Corsa** | PWA para llevar el mantenimiento y la gasolina del carro | React · Vite · Fastify · PostgreSQL · Docker | [carro.enmarcm.site](https://carro.enmarcm.site/) · [Código](https://github.com/enmarcm/gestion-carro) |
+| **Torre Cooperativa** | Juego de plataformas cooperativo para 2 jugadores en tiempo real | React · Node · Socket.IO | [Código](https://github.com/enmarcm/vertical-platformer-coop) |
 
 Más proyectos y capturas en **[enmarcm.site](https://enmarcm.site)**. La mayoría del código de clientes es privado.
 
