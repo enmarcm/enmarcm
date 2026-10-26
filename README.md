@@ -68,7 +68,7 @@ Construyo productos web de punta a punta para negocios reales: **e-commerce y ca
 | **Liga Lago Futsal** | Gestión de torneos con marcadores en vivo, tablas y llaves | React · Express · Prisma · PostgreSQL · Socket.IO | [Demo](https://torneo.enmarcm.site/) · [Código](https://github.com/enmarcm/torneo-system) |
 | **EFPACE** | Hub administrativo interno de EF Agency | Next.js · Supabase | [Acceso](https://administrativo.efagency.com.ve/login) |
 | **Suppler** | Landing de insumos médicos con captación por WhatsApp | React · MUI | [suppler.net](https://suppler.net/) |
-| **Catálogo QR** | Habladores QR con precios al detal y al mayor para supermercado | PHP | [Ver ficha](https://abc-soft.as-netca.com/diosaca-qr/p/?c=09000270) |
+| **Catálogo QR** | Habladores QR con precios al detal y al mayor para supermercado | PHP | Privado |
 | **Antojo** | PWA para calificar y rankear comida entre amigos | React · Node | [antojo.enmarcm.site](https://antojo.enmarcm.site/) |
 | **Mis Finanzas VE** | Finanzas personales pensadas para la economía venezolana | React · Express · Prisma · PostgreSQL | [finanzas.enmarcm.site](https://finanzas.enmarcm.site/) |
 | **Mi Corsa** | PWA para llevar el mantenimiento y la gasolina del carro | React · Vite · Fastify · PostgreSQL · Docker | [carro.enmarcm.site](https://carro.enmarcm.site/) · [Código](https://github.com/enmarcm/gestion-carro) |
